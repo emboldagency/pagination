@@ -31,8 +31,7 @@
     "require": {
         "php": "^8.1",
         "laraish/contracts": "dev-master",
-        "laraish/support": "dev-master",
-        "illuminate/contracts": "^8.0"
+        "laraish/support": "dev-master"
     },
     "autoload": {
         "psr-4": {
